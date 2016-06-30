@@ -1,0 +1,8 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item android:id="@+id/action_add_review"
+        android:icon="@drawable/ic_action_new_event"
+        android:title="@string/action_add_review"
+        android:showAsAction="collapseActionView|ifRoom"/>
+
+</menu>

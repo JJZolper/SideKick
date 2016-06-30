@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SideKick</string>
+    
+    <string name="title_activity_camera_view">Finder</string>
+    <string name="title_activity_reviews">Reviews</string>
+    <string name="title_activity_place">Place</string>
+    <string name="title_activity_add_review">New Review</string>
+    <string name="title_activity_add_event">New Event</string>
+    
+    <string name="action_search">Search</string>
+    <string name="action_filter">Filter</string>
+    
+    <string name="action_add_review">Add review</string>
+    
+    <string name="action_add_event">Add Event</string>
+    <string name="app_id">395143483950913</string>
+    
+    <string name="review_title">Review Title</string>
+    <string name="review_body">Review Body</string>
+    <string name="to_place">To place</string>
+
+    <string name="title">Sidekick</string>
+    <string name="login_cont">Continue Without Logging In</string>
+    <string name="place_name">Place Name</string>
+    <string name="place_phone">Place Phone Number</string>
+    <string name="place_descr">Place Description</string>
+    <string name="events">Events</string>
+    <string name="event_name">Event Name</string>
+    <string name="event_time">Event Time</string>
+    <string name="event_descr">Event Description</string>
+    <string name="back">Back</string>
+    <string name="submit">Submit</string>
+    <string name="add_review">Add Review</string>
+    <string name="add_event">Add Event</string>
+</resources>
